@@ -692,11 +692,11 @@
 
     langAdd('default_playlist',
         {
-            ru: 'https://jekalich.github.io/smtk/tv.smtk.m3u',
-            uk: 'https://jekalich.github.io/smtk/tv.smtk.m3u',
-            be: 'https://jekalich.github.io/smtk/tv.smtk.m3u',
-            en: 'https://jekalich.github.io/smtk/tv.smtk.m3u',
-            zh: 'https://jekalich.github.io/smtk/tv.smtk.m3u'
+            ru: 'http://persik.by/pl/3631/476313.m3u',
+            uk: 'http://persik.by/pl/3631/476313.m3u',
+            be: 'http://persik.by/pl/3631/476313.m3u',
+            en: 'http://persik.by/pl/3631/476313.m3u',
+            zh: 'http://persik.by/pl/3631/476313.m3u'
         }
     );
     langAdd('default_playlist_cat',
