@@ -746,11 +746,11 @@
     );
     langAdd('settings_list_url_desc0',
         {
-            ru: 'По умолчанию используется плейлист из проекта <i>https://github.com/Free-TV/IPTV</i><br>Вы можете заменить его на свой.',
-            uk: 'За замовчуванням використовується плейлист із проекту <i>https://github.com/Free-TV/IPTV</i><br>Ви можете замінити його на свій.',
-            be: 'Па змаўчанні выкарыстоўваецца плэйліст з праекта <i>https://github.com/Free-TV/IPTV</i><br> Вы можаце замяніць яго на свой.',
-            en: 'The default playlist is from the project <i>https://github.com/Free-TV/IPTV</i><br>You can replace it with your own.',
-            zh: '默认播放列表来自项目 <i>https://github.com/Free-TV/IPTV</i><br>您可以将其替换为您自己的。'
+            ru: 'По умолчанию используется плейлист из проекта <i>http://persik.by/pl/3631/476313.m3u</i><br>Вы можете заменить его на свой.',
+            uk: 'За замовчуванням використовується плейлист із проекту <i>http://persik.by/pl/3631/476313.m3u</i><br>Ви можете замінити його на свій.',
+            be: 'Па змаўчанні выкарыстоўваецца плэйліст з праекта <i>http://persik.by/pl/3631/476313.m3u</i><br> Вы можаце замяніць яго на свой.',
+            en: 'The default playlist is from the project <i>http://persik.by/pl/3631/476313.m3u</i><br>You can replace it with your own.',
+            zh: '默认播放列表来自项目 <i>http://persik.by/pl/3631/476313.m3u</i><br>您可以将其替换为您自己的。'
         }
     );
     langAdd('settings_list_url_desc1',
