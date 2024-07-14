@@ -692,11 +692,11 @@
 
     langAdd('default_playlist',
         {
-            ru: 'http://persik.by/pl/3631/476313.m3u',
-            uk: 'http://persik.by/pl/3631/476313.m3u',
-            be: 'http://persik.by/pl/3631/476313.m3u',
-            en: 'http://persik.by/pl/3631/476313.m3u',
-            zh: 'http://persik.by/pl/3631/476313.m3u'
+            ru: 'https://serg7by.github.io/Free.m3u',
+            uk: 'https://serg7by.github.io/Free.m3u',
+            be: 'https://serg7by.github.io/Free.m3u',
+            en: 'https://serg7by.github.io/Free.m3u',
+            zh: 'https://serg7by.github.io/Free.m3u'
         }
     );
     langAdd('default_playlist_cat',
@@ -746,11 +746,11 @@
     );
     langAdd('settings_list_url_desc0',
         {
-            ru: 'По умолчанию используется плейлист из проекта <i>http://persik.by/pl/3631/476313.m3u</i><br>Вы можете заменить его на свой.',
-            uk: 'За замовчуванням використовується плейлист із проекту <i>http://persik.by/pl/3631/476313.m3u</i><br>Ви можете замінити його на свій.',
-            be: 'Па змаўчанні выкарыстоўваецца плэйліст з праекта <i>http://persik.by/pl/3631/476313.m3u</i><br> Вы можаце замяніць яго на свой.',
-            en: 'The default playlist is from the project <i>http://persik.by/pl/3631/476313.m3u</i><br>You can replace it with your own.',
-            zh: '默认播放列表来自项目 <i>http://persik.by/pl/3631/476313.m3u</i><br>您可以将其替换为您自己的。'
+            ru: 'По умолчанию используется плейлист из проекта <i>https://serg7by.github.io/Free.m3u</i><br>Вы можете заменить его на свой.',
+            uk: 'За замовчуванням використовується плейлист із проекту <i>https://serg7by.github.io/Free.m3u</i><br>Ви можете замінити його на свій.',
+            be: 'Па змаўчанні выкарыстоўваецца плэйліст з праекта <i>https://serg7by.github.io/Free.m3u</i><br> Вы можаце замяніць яго на свой.',
+            en: 'The default playlist is from the project <i>https://serg7by.github.io/Free.m3u</i><br>You can replace it with your own.',
+            zh: '默认播放列表来自项目 <i>https://serg7by.github.io/Free.m3u</i><br>您可以将其替换为您自己的。'
         }
     );
     langAdd('settings_list_url_desc1',
